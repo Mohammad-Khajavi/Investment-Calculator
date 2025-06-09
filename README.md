@@ -1,8 +1,17 @@
-# Investment-Calculator
-A simple Investment Calculator Application, built using React Focusing on UI interactions and state management.
+# Investment Calculator
 
-key features:
+This is a simple React app that helps you calculate how your investment grows over time.
 
-Technologies Used: React, JavaScript, Css
+## Features
 
-Role: Sole Developer
+- Enter initial investment, annual contribution, return rate, and duration
+- See year-by-year breakdown of your investment
+- Clean and responsive interface
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+
